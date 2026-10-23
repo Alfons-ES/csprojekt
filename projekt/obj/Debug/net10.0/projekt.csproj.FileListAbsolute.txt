@@ -12,3 +12,4 @@ C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\refint\pr
 C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.pdb
 C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.genruntimeconfig.cache
 C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\ref\projekt.dll
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.sourcelink.json

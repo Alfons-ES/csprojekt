@@ -113,7 +113,7 @@ class Program
             // felhantering
             if (string.IsNullOrEmpty(input) || input.Length != 1 || !char.IsLetter(input[0]))
             {
-                Console.WriteLine("Du får bara skriva en enda bokstav!");
+                Console.WriteLine("Skriv en bokstav!");
                 Console.WriteLine("Tryck Enter...");
                 Console.ReadLine();
                 continue;
