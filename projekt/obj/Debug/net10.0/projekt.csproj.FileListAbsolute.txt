@@ -1,0 +1,14 @@
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\bin\Debug\net10.0\projekt.exe
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\bin\Debug\net10.0\projekt.deps.json
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\bin\Debug\net10.0\projekt.runtimeconfig.json
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\bin\Debug\net10.0\projekt.dll
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\bin\Debug\net10.0\projekt.pdb
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.AssemblyInfoInputs.cache
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.AssemblyInfo.cs
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.csproj.CoreCompileInputs.cache
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.dll
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\refint\projekt.dll
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.pdb
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\projekt.genruntimeconfig.cache
+C:\Users\alfon\Desktop\plugg\C# .NET\projekt\projekt\obj\Debug\net10.0\ref\projekt.dll
